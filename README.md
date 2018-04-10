@@ -8,3 +8,4 @@ __同时这个仓库允许随意实验，如果你对Github不熟悉，尝试在
 在IDE中写代码的时候，我本人倾向于使用IDE自带的Git插件（Jet家用户），但是如果有需要的话（比如你需要对这个仓库进行各种操作），在下面放个比较好用的Git图形界面客户端SourceTree：https://www.sourcetreeapp.com/
 
 感谢 @AngusMonroe 的Github学习笔记：https://blog.csdn.net/angus_monroe/article/details/79196760
+感谢各位的帮助，我们一起加油~
